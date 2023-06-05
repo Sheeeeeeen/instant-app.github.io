@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "ph.com.globe.globeonesuperapp",
+    "sha256_cert_fingerprints":
+    ["E3:FC:C2:C9:5B:3A:CA:0F:A9:44:EF:AC:5D:FF:42:DB:87:9F:87:E5:39:45:46:44:22:A2:EF:9A:23:04:67:9B"]
+  }
+}]
